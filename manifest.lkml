@@ -9,7 +9,7 @@ project_name: "wfs-extension"
 
 application: extension_extraordinaire {
   label: "WFS - Compliance Review"
-  url: "http://localhost:8080/dist/bundle.js"
+  url: "http://localhost:8080/bundle.js"
   entitlements: {
     local_storage: no
     navigation: no
